@@ -1,4 +1,4 @@
-# sublime text 3 en español
+# **`Sublime Text 3 en español`**
 
 La última versión de Sublime Text, Sublime Text 3, no contempla la opción de multilenguaje
 
@@ -23,7 +23,6 @@ Descargar el archivo zip desde el boton *`"Clone or download" button, and then "
 - Borra la carpeta **Default**
 - Entrar a la carpeta **User** y borrar `solamente` la carpeta **Spanish Localization**
 
-
 ---
 
 Spanish localization of Sublime Text 3 menus.
@@ -36,7 +35,3 @@ Spanish localization of Sublime Text 3 menus.
 ## Uninstall
 
 - Delete both "Default" and "User/Spanish Localization" directory in Packages directory.
-
-
----
-Traducción al castellano de los menús de Sublime Text 3.
